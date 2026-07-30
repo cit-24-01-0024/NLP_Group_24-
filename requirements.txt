@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
+tensorflow
 nltk
 textblob
 matplotlib
@@ -8,4 +9,5 @@ seaborn
 imbalanced-learn
 wordcloud
 flask
+streamlit
 streamlit
