@@ -10,3 +10,4 @@ imbalanced-learn
 wordcloud
 flask
 streamlit
+streamlit
