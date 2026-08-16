@@ -3,7 +3,3 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 venv/
-.env
-.vscode/
-.ipynb_checkpoints/
-models/*.pkl
